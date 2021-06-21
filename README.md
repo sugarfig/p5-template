@@ -21,6 +21,10 @@ You may want to choose an emotion: surprise, playfulness, confusion, etc.
 
 Layers can help create a sense of complexity! To do so, comment out the `background()` function in your `draw()` function. This will prevent the screen from being covered by the background color each frame. 
 
+#### Q: How can I create a gradient of colors? 
+
+You might to check out https://p5js.org/reference/#/p5/lerpColor. Also useful: https://p5js.org/reference/#/p5/map
+
 #### Q: Is my brush a tool for the user to create art, or is the brush a work of art in itself? 
  
 🤯
