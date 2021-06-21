@@ -13,7 +13,7 @@ Use this template for a brand new p5.js project.
 
 ## Some helpful questions to think through
 
-#### Q: What ideas do you want to convey with my brush? 
+#### Q: What ideas do I want to convey with my brush? 
 
 You may want to choose an emotion: surprise, playfulness, confusion, etc. 
 
@@ -21,7 +21,7 @@ You may want to choose an emotion: surprise, playfulness, confusion, etc.
 
 Layers can help create a sense of complexity! To do so, comment out the `background()` function in your `draw()` function. This will prevent the screen from being covered by the background color each frame. 
 
-#### Q: Is your brush a tool for the user to create art, or is the brush a work of art in itself? 
+#### Q: Is my brush a tool for the user to create art, or is the brush a work of art in itself? 
  
 🤯
 
