@@ -8,7 +8,7 @@ Use this template for a brand new p5.js project.
 1.  Find an object, texture, or motion that you want to recreate using p5.js Here is [some inspiration](https://lmccart.github.io/p5-workshop/). 
 2.  Generate some sort of "mark" every time your mouse location changes (aka make a “brush” you can "draw" with using the mouse). 
 3.  Include one element that changes as you move the mouse that is *not* just the location of the mark. This could be scale, color, angle, or more. 
-4.  Include one element that is different each time you load the sketch (you may want to use randomness!)
+4.  (Optional) Include one element that is different each time you load the sketch (you may want to use randomness!)
 
 
 ## Some helpful questions to think through
